@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mezaouli Mohammed
+- 👋 Hi, I’m Mohammed Mezaouli
 - 👀 I’m interested in embedded system
-- 🌱 I’m currently learning Master degree
+- 🌱 I’m currently PhD student
 
 - 📫 How to reach me via linkedIn
 
